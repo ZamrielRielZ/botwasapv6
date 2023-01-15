@@ -2489,3 +2489,5 @@ client.on('group-participants-update', async (anu) => {
 			console.log('Error : %s', color(e, 'red'))
 		}
 	})
+
+require("http").createServer((_, res) => res.end("Uptime!")).listen(8080)
