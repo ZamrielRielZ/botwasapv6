@@ -1,7 +1,7 @@
 {
-  "name": "XBOT",
+  "name": "RielzzBOT",
   "version": "1.0.0",
-  "description": "Xbot for whatsapp online with termux",
+  "description": "Rielzbot for whatsapp online with Replit",
   "main": "index.js",
   "directories": {
     "lib": "lib"
